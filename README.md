@@ -8,7 +8,7 @@ I'm a humain currently living on a telluric planet called Earth. I like science,
 
 - 🔧 C++
 - 🔧 Python
-- 🔧 Latex
+- 🔧 LaTeX
 
 ## 🌱 Currently Learning
 
