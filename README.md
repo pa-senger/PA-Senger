@@ -17,7 +17,7 @@ I'm doing a Master's Degree in Applied Mathematics
 ## 🤝 Let's Connect
 
 - 📫 How to reach me: [pierre.antoine.senger at gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/pierre-antoine-senger-572a962ab/]
+- 💼 LinkedIn: [paSenger](https://www.linkedin.com/in/paSenger)
 
 ## 📈 GitHub Stats
 
