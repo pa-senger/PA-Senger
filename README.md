@@ -1,4 +1,4 @@
-👋 Hello, I'm Pierre-Antoine, an applied mathematics student at the University of Strasbourg.
+👋 Hello there, I'm Pierre-Antoine, an applied mathematics student at the University of Strasbourg.
 
 📚 I have a passion for understanding the intricacies of the universe and everything in it. The world of sciences, from the microscopic to the cosmic, fascinates me.
 
