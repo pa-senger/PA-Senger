@@ -1,10 +1,10 @@
-# 👋 Hello ~World~ Univers! I'm Pierre-Antoine
+# 👋 Hello ~World~ Universe, I'm Pierre-Antoine !
 
 ## 🚀 About Me
 
 I'm a human currently living on a telluric planet called Earth.  
 I like science, cats and nature.  
-I believe that everything is interresting if you look it with the right lens.
+I believe that everything is interresting if you look at it with the right lens.
 
 ## 💻 Tech Stack
 
@@ -14,7 +14,7 @@ I believe that everything is interresting if you look it with the right lens.
 
 ## 🌱 Currently Learning
 
-I'm currently doing a Master's Degree in Applied Mathematics.
+I'm currently doing a Master's Degree in Applied Mathematics at the University of Strasbourg in France.
 
 ## 🤝 Let's Connect
 
@@ -25,17 +25,14 @@ I'm currently doing a Master's Degree in Applied Mathematics.
 
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PA-Senger&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
 
-<!--
 ## 🎯 My Projects
 
 Here are some of the projects I'm proud of:
 
-- [Project 1](link-to-project-1)
-- [Project 2](link-to-project-2)
-- [Project 3](link-to-project-3)
+- [My 1st ever C++ Project](https://github.com/PA-Senger/ML_Project_S6)
+- [My 2nd C++ Project](https://github.com/PA-Senger/heatFinSimu)
+- [Some Python Code](https://github.com/PA-Senger/Calcul_Scientifique_M1S1)
 
--->
-
-Feel free to explore my repositories to see more!
+Feel free to explore my public repositories to see more!
 
 Thanks for stopping by! 👊
