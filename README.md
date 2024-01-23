@@ -1,8 +1,10 @@
-# 👋 Hello World! I'm Pierre-Antoine
+# 👋 Hello ~World~ Univers! I'm Pierre-Antoine
 
 ## 🚀 About Me
 
-I'm a humain currently living on a telluric planet called Earth. I like science, cats and nature. Everything is interresting if you look it with the right lens.
+I'm a human currently living on a telluric planet called Earth.  
+I like science, cats and nature.  
+I believe that everything is interresting if you look it with the right lens.
 
 ## 💻 Tech Stack
 
@@ -12,7 +14,7 @@ I'm a humain currently living on a telluric planet called Earth. I like science,
 
 ## 🌱 Currently Learning
 
-I'm currently doing a Master's Degree in Applied Mathematics
+I'm currently doing a Master's Degree in Applied Mathematics.
 
 ## 🤝 Let's Connect
 
