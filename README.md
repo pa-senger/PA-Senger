@@ -4,7 +4,7 @@
 
 I'm a human currently living on a telluric planet called Earth.  
 I like science, cats and nature.  
-I believe that everything is interresting if you look at it with the right lens.
+I believe that everything can be interresting if you look at it with the right lens.
 
 ## 💻 Tech Stack
 
