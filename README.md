@@ -6,9 +6,9 @@ I'm a humain currently living on a telluric planet called Earth. I like science,
 
 ## 💻 Tech Stack
 
-- 🔧 [C++]
-- 🔧 [Python]
-- 🔧 [Latex]
+- 🔧 C++
+- 🔧 Python
+- 🔧 Latex
 
 ## 🌱 Currently Learning
 
@@ -16,7 +16,7 @@ I'm doing a Master's Degree in Applied Mathematics
 
 ## 🤝 Let's Connect
 
-- 📫 How to reach me: [pierre.antoine.senger at gmail.com]
+- 📫 How to reach me: pierre.antoine.senger at gmail.com
 - 💼 LinkedIn: [paSenger](https://www.linkedin.com/in/paSenger)
 
 ## 📈 GitHub Stats
