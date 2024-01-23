@@ -1,28 +1,39 @@
-👋 Hello there, I'm Pierre-Antoine, an applied mathematics student at the University of Strasbourg.
+# 👋 Hello World! I'm Pierre-Antoine
 
-📚 I have a passion for understanding the intricacies of the universe and everything in it. The world of sciences, from the microscopic to the cosmic, fascinates me.
+## 🚀 About Me
 
-🐱 Apart from my academic pursuits, I find joy in the company of cats—they're just purrfect! 🐾
+I'm a humain currently living on a telluric planet called Earth. I like science, cats and nature. Everything is interresting if you look it with the right lens.
 
-⛰️ Climbing and skiing are not just physical activities for me; they are adventures that push my limits and connect me with nature.
+## 💻 Tech Stack
 
-📖 When I'm not solving mathematical problems, you'll find me immersed in the captivating realms of science fiction literature. It's my escape to fantastical worlds and imaginative storytelling.
+- 🔧 [C++]
+- 🔧 [Python]
+- 🔧 [Latex]
 
-🌌 Join me on this journey of curiosity and exploration as I navigate the fascinating landscapes of applied mathematics and beyond!
+## 🌱 Currently Learning
 
+I'm doing a Master's Degree in Applied Mathematics
 
+## 🤝 Let's Connect
+
+- 📫 How to reach me: [pierre.antoine.senger at gmail.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/pierre-antoine-senger-572a962ab/]
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PA-Senger&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
 
 <!--
-**PA-Senger/PA-Senger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎯 My Projects
 
-Here are some ideas to get you started:
+Here are some of the projects I'm proud of:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- [Project 1](link-to-project-1)
+- [Project 2](link-to-project-2)
+- [Project 3](link-to-project-3)
+
 -->
+
+Feel free to explore my repositories to see more!
+
+Thanks for stopping by! 👊
