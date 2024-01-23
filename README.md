@@ -12,7 +12,7 @@ I'm a humain currently living on a telluric planet called Earth. I like science,
 
 ## 🌱 Currently Learning
 
-I'm doing a Master's Degree in Applied Mathematics
+I'm currently doing a Master's Degree in Applied Mathematics
 
 ## 🤝 Let's Connect
 
