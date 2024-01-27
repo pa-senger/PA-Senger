@@ -11,6 +11,7 @@ I believe that everything can be interresting if you look at it with the right l
 - 🔧 C++
 - 🔧 Python
 - 🔧 LaTeX
+- 🔧 SQL
 
 ## 🌱 Currently Learning
 
@@ -20,10 +21,6 @@ I'm currently doing a Master's Degree in Applied Mathematics at the University o
 
 - 📫 How to reach me: pierre.antoine.senger at gmail.com
 - 💼 LinkedIn: [paSenger](https://www.linkedin.com/in/paSenger)
-
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=PA-Senger&show_icons=true&theme=radical)](https://github.com/YourGitHubUsername)
 
 ## 🎯 My Projects
 
