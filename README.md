@@ -26,9 +26,9 @@ I'm currently doing a Master's Degree in Applied Mathematics at the University o
 
 Here are some of the projects I'm proud of:
 
-- [My 1st ever C++ Project](https://github.com/PA-Senger/ML_Project_S6)
-- [My 2nd C++ Project](https://github.com/PA-Senger/heatFinSimu)
-- [Some Python Code](https://github.com/PA-Senger/Calcul_Scientifique_M1S1)
+- [My 1st ever C++ Project](https://github.com/PA-Senger/s6-neural-network)
+- [My 2nd C++ Project](https://github.com/PA-Senger/m1-heat-fin-simulation)
+- [master1-vegetation](https://github.com/PA-Senger/m1-vegetation)
 
 Feel free to explore my public repositories to see more!
 
