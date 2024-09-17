@@ -6,12 +6,14 @@ I'm a human currently living on a telluric planet called Earth.
 I like science, cats and nature.  
 I believe that everything can be interresting if you look at it with the right lens.
 
-## 💻 Tech Stack
+## Skills
 
-- 🔧 C++
-- 🔧 Python
-- 🔧 LaTeX
-- 🔧 SQL
+- Hard Skills:  
+Python, C++, Algorithm Analysis, Data Analysis, High-Performance Computing, Scientific Computing, Database Querying, Machine Learning, Signal Processing, Image Processing, Parallel Computing, Linux, Git, LaTeX
+
+- Soft Skills:   
+Problem-solving, Teamwork, Communication, Report Writing, Imagination, Creativity, Critical Thinking
+
 
 ## 🌱 Currently Learning
 
