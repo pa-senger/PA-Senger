@@ -23,14 +23,14 @@ Feel free to explore my public repositories to see more!
 ## 📐 Skills
 
 - Hard Skills:  
-Python, C++, Algorithm Analysis, Data Analysis, High-Performance Computing, Scientific Computing, Database Querying, Machine Learning, Signal Processing, Image Processing, Parallel Computing, Linux, Git, LaTeX
+Python, C++, Algorithm Analysis, Data Analysis, HPC, FEM, Scientific Computing, Database Querying, Machine Learning, Signal Processing, Image Processing, Parallel Computing, Linux, Git, LaTeX
 
 - Soft Skills:   
 Problem-solving, Teamwork, Communication, Report Writing, Imagination, Creativity, Critical Thinking
 
 ## 🤝 Let's Connect
 
-- 📫 How to reach me: pierre.antoine.senger at gmail.com
+- 📫 How to reach me: pierre.antoine.senger(at)gmail.com
 - 💼 LinkedIn: [paSenger](https://www.linkedin.com/in/paSenger)
 
 
