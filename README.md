@@ -8,7 +8,7 @@ I believe that everything can be interresting if you look at it with the right l
 
 ## 🌱 Currently Learning
 
-I Just finished my Master's Degree in Applied Mathematics at the University of Strasbourg in France and I'm looking for a Phd opportunity.
+PhD student on the HiFi Magnet project with University of Strasbourg and the LNCMI (CNRS) of Grenoble.
 
 ## 🎯 My Projects
 
